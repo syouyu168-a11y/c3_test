@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-// N.Shoya
 int main() {
-    printf("Hello World!\n");
-
-    
+    printf("Version 3\n");
     return 0;
 }
